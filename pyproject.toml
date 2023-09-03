@@ -11,6 +11,7 @@ pnai = "pnai.__main__:main"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pydantic = "^2.3.0"
 
 [build-system]
 requires = ["poetry-core"]
